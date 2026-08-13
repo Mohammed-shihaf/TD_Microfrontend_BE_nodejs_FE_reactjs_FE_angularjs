@@ -6,7 +6,6 @@
     "nx": "18.3.5"
   },
   "engines": {
-    "node": "24.x",
-    "shell": "bash>=5.2"
+    "node": "24.x"
   }
 }
