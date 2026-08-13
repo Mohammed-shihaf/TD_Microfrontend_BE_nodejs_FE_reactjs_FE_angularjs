@@ -4,5 +4,9 @@
   "version": "1.0.0",
   "devDependencies": {
     "nx": "18.3.5"
+  },
+  "engines": {
+    "node": "24.x",
+    "shell": "bash>=5.2"
   }
 }
